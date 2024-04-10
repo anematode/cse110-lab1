@@ -16,19 +16,14 @@ Here is me adding the README from the command line. This is the *add-read-me* br
 
 ## Emphasis changes meaning
 
-*I* never said he stole your money.
+* *I* never said he stole your money.
+* I **never** said he stole your money.
+* I never ***said*** he stole your money.
+* I never said `he` stole your money.
 
-I **never** said he stole your money.
-
-I never ***said*** he stole your money.
-
-I never said `he` stole your money.
-
-I never said he <ins>stole</ins> your money.
-
-I never said he stole "your" money.
-
-I never said he stole your <del>money</del>.
+1. I never said he <ins>stole</ins> your money.
+2. I never said he stole "your" money.
+3. I never said he stole your <del>money</del>.
 
 ## Commentary on C++
 
@@ -53,3 +48,9 @@ Please re-read the [C++ wisdom](#cpp).
 ## README
 
 The readme is located at [README.md](./README.md).
+
+## Tasks for today
+
+- [x] Live
+- [ ] Laugh
+- [x] Love
